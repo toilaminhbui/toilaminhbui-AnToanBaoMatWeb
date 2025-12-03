@@ -12,4 +12,5 @@ php artisan passport:install
 php artisan serve
 ## FRONTEND
 npm i
+
 npm start
